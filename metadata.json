@@ -1,0 +1,6 @@
+{
+  "name": "RANISA PAYROLL PRO",
+  "description": "Simple Employee Salary & Attendance Management for small businesses and clothing shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
